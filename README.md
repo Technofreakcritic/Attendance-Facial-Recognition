@@ -2,10 +2,15 @@
 
 A simple python script that recognises faces and mark attendance for the recognised faces in an excel sheet.
 You need following libraries pre-installed on your system:
-1.face_recognition
-2.Opencv
-3.openpyxl
-4.datetime
+
+
+**1.face_recognition**
+
+**2.Opencv**
+
+**3.openpyxl**
+
+**4.datetime**
 
 ## Run:
 1. Save images of people as '1.jpg','2.jpg'...... numbers being the roll numbers of the person!
